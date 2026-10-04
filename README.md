@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="./assets/shreya.gif" width="520" alt="Shreya">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=58&duration=1800&pause=900&color=C77DFF&center=true&vCenter=true&width=600&lines=Shreya" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=900&lines=Curious+about+what+happens+behind+the+interface.;Building+to+understand%2C+not+just+to+ship.;Exploring+AI+one+experiment+at+a+time.;Going+deeper+into+RAG%2C+Agents+%26+AI+Systems.;Turning+questions+into+things+I+can+build." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=D8B4F8&center=true&vCenter=true&width=900&lines=Curious+about+what+happens+behind+the+interface.;Building+to+understand%2C+not+just+to+ship.;Exploring+one+idea+at+a+time.;Turning+questions+into+things+I+can+build." />
 
 <br><br>
-
-<img src="./assets/curiosity.gif" width="760" alt="curiosity.exe is always running">
-
-<br>
-
 <i>AI • DATA SCIENCE • GENERATIVE AI • RAG • AGENTIC AI</i>
+
 
 </div>
 
@@ -258,6 +254,8 @@ Explores sales, profitability, discounts and product performance through **data 
 ---
 
 <div align="center">
+  
+<img src="./assets/curiosity.gif" width="760" alt="curiosity.exe is always running">
 
 # 🧬 THE TOOLKIT
 
