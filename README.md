@@ -377,11 +377,10 @@ Understand the mechanism • push the idea • find the limits • think beyond 
 
 <img src="./assets/ai_pulse.gif" width="860" alt="purple AI pulse">
 
-<br><br>
+<br>
 
 ### `DATA → INTELLIGENCE → ACTION`
 
-<br>
 
 <i>
 I don't want to just use intelligent systems.
@@ -389,8 +388,7 @@ I don't want to just use intelligent systems.
 I want to understand them.
 </i>
 
-<br><br>
-
+<br>
 <code>build</code>
 &nbsp;·&nbsp;
 <code>break</code>
@@ -400,8 +398,6 @@ I want to understand them.
 <code>understand</code>
 &nbsp;·&nbsp;
 <code>build again</code>
-
-<br><br>
 
 ### ✦ curiosity.exe is still running ✦
 
